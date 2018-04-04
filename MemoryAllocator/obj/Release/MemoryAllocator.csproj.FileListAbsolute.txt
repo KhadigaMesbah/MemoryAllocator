@@ -1,0 +1,9 @@
+C:\Users\khmkh\OneDrive\Documents\Visual Studio 2012\Projects\MemoryAllocator\MemoryAllocator\bin\Release\MemoryAllocator.exe.config
+C:\Users\khmkh\OneDrive\Documents\Visual Studio 2012\Projects\MemoryAllocator\MemoryAllocator\bin\Release\MemoryAllocator.exe
+C:\Users\khmkh\OneDrive\Documents\Visual Studio 2012\Projects\MemoryAllocator\MemoryAllocator\bin\Release\MemoryAllocator.pdb
+C:\Users\khmkh\OneDrive\Documents\Visual Studio 2012\Projects\MemoryAllocator\MemoryAllocator\obj\Release\MemoryAllocator.Form1.resources
+C:\Users\khmkh\OneDrive\Documents\Visual Studio 2012\Projects\MemoryAllocator\MemoryAllocator\obj\Release\MemoryAllocator.Properties.Resources.resources
+C:\Users\khmkh\OneDrive\Documents\Visual Studio 2012\Projects\MemoryAllocator\MemoryAllocator\obj\Release\MemoryAllocator.csproj.GenerateResource.Cache
+C:\Users\khmkh\OneDrive\Documents\Visual Studio 2012\Projects\MemoryAllocator\MemoryAllocator\obj\Release\MemoryAllocator.exe
+C:\Users\khmkh\OneDrive\Documents\Visual Studio 2012\Projects\MemoryAllocator\MemoryAllocator\obj\Release\MemoryAllocator.pdb
+C:\Users\khmkh\onedrive\documents\visual studio 2012\Projects\MemoryAllocator\MemoryAllocator\obj\Release\MemoryAllocator.csprojResolveAssemblyReference.cache
